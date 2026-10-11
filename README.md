@@ -133,5 +133,5 @@ npm run build
 
 ## 📜 License & Acknowledgments
 
-This project is developed for educational purposes as part of the **Learn with Sumit (LWS) React & Next.js Batch 5** curriculum.
+This project is developed for educational purposes.
 All rights reserved © 2026.
